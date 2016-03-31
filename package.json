@@ -1,0 +1,23 @@
+{
+  "name": "promisify",
+  "version": "1.0.0",
+  "description": "Wrap callback style functions to return promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasuman/promisify.git"
+  },
+  "keywords": [
+    "promise",
+    "callback"
+  ],
+  "author": "Vasuman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasuman/promisify/issues"
+  },
+  "homepage": "https://github.com/vasuman/promisify#readme"
+}
